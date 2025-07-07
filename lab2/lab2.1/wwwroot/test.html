@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Test CORS - ITI API</title>
+</head>
+<body>
+  <h2>Get All Students</h2>
+  <button onclick="getStudents()">Fetch Students</button>
+  <ul id="students"></ul>
+
+  <h2>Add Student</h2>
+  <form onsubmit="addStudent(event)">
+    <input type="text" id="fname" placeholder="First Name" required>
+    <input type="text" id="lname" placeholder="Last Name" required>
+    <input type="number" id="age" placeholder="Age">
+    <input type="text" id="address" placeholder="Address">
+    <input type="number" id="deptId" placeholder="Department ID">
+    <input type="number" id="superId" placeholder="Supervisor ID">
+    <button type="submit">Add</button>
+  </form>
+
+  <script>
+    const API_URL = "https://localhost:7008/api/student"; 
+
+    function getStudents() {
+      fetch(API_URL)
+        .then(res => res.json())
+        .then(data => {
+          const list = document.getElementById('students');
+          list.innerHTML = "";
+          data.forEach(s => {
+            const li = document.createElement('li');
+            li.textContent = `${s.fullName} - ${s.departmentName} - Supervisor: ${s.supervisorName}`;
+            list.appendChild(li);
+          });
+        })
+        .catch(err => console.error("Error fetching students:", err));
+    }
+
+    function addStudent(event) {
+      event.preventDefault();
+
+      const student = {
+        firstName: document.getElementById("fname").value,
+        lastName: document.getElementById("lname").value,
+        age: parseInt(document.getElementById("age").value),
+        address: document.getElementById("address").value,
+        departmentId: parseInt(document.getElementById("deptId").value),
+        supervisorId: parseInt(document.getElementById("superId").value)
+      };
+
+      fetch(API_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(student)
+      })
+        .then(res => res.json())
+        .then(data => {
+          alert("Student added successfully!");
+          getStudents(); // refresh list
+        })
+        .catch(err => {
+          alert("Error adding student.");
+          console.error(err);
+        });
+    }
+  </script>
+</body>
+</html>
