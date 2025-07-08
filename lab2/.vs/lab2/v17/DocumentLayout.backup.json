@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\dtos\\inputstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\dtos\\inputstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\dtos\\inputdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,48 +31,8 @@
       "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\dtos\\inputstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\dtos\\inputstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\models\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\models\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\lab2.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\lab2.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|d:\\college\\skills\\full stack\\iti\\asp .net api\\labs\\lab2\\lab2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD53097-F8C6-45F7-83AB-D18B0F624547}|lab2.1\\lab2.1.csproj|solutionrelative:lab2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,195 +54,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "lab2.1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "lab2.1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:18:31.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "lab2.1\\Controllers\\DepartmentController.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "lab2.1\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwDkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:23:35.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DepartmentDto.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\DepartmentDto.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Dtos\\DepartmentDto.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\DepartmentDto.cs",
-              "RelativeToolTip": "lab2.1\\Dtos\\DepartmentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:17:14.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Models\\Department.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\Department.cs",
-              "RelativeToolTip": "lab2.1\\Models\\Department.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:27:38.362Z",
+              "WhenOpened": "2025-07-08T12:18:19.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InputDepartmentDtO.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputDepartmentDtO.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Dtos\\InputDepartmentDtO.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputDepartmentDtO.cs",
-              "RelativeToolTip": "lab2.1\\Dtos\\InputDepartmentDtO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T19:46:13.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InputStudentDto.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputStudentDto.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Dtos\\InputStudentDto.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputStudentDto.cs",
-              "RelativeToolTip": "lab2.1\\Dtos\\InputStudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:54:53.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Program.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Program.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Program.cs*",
-              "RelativeToolTip": "lab2.1\\Program.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAADgvykAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:20:57.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "lab2.1\\Mapping\\MappingProfile.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Mapping\\MappingProfile.cs",
               "RelativeToolTip": "lab2.1\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:33:03.893Z",
+              "WhenOpened": "2025-07-08T12:18:12.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "lab2.1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T18:30:34.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\appsettings.json",
-              "RelativeDocumentMoniker": "lab2.1\\appsettings.json",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\appsettings.json",
-              "RelativeToolTip": "lab2.1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T17:55:24.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ITIDbContext.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\ITIDbContext.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Models\\ITIDbContext.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\ITIDbContext.cs",
-              "RelativeToolTip": "lab2.1\\Models\\ITIDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:25:21.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "lab2.1\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "lab2.1\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T18:52:39.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Models\\Student.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\Student.cs",
-              "RelativeToolTip": "lab2.1\\Models\\Student.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA7wAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:28:24.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "StudentDto.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\StudentDto.cs",
               "RelativeDocumentMoniker": "lab2.1\\Dtos\\StudentDto.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\StudentDto.cs",
               "RelativeToolTip": "lab2.1\\Dtos\\StudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:30:15.292Z"
+              "WhenOpened": "2025-07-08T12:18:03.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Instructor.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\Instructor.cs",
-              "RelativeDocumentMoniker": "lab2.1\\Models\\Instructor.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Models\\Instructor.cs",
-              "RelativeToolTip": "lab2.1\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "InputStudentDto.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputStudentDto.cs",
+              "RelativeDocumentMoniker": "lab2.1\\Dtos\\InputStudentDto.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputStudentDto.cs",
+              "RelativeToolTip": "lab2.1\\Dtos\\InputStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:28:53.216Z"
+              "WhenOpened": "2025-07-08T12:17:56.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "lab2.1.csproj",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\lab2.1.csproj",
-              "RelativeDocumentMoniker": "lab2.1\\lab2.1.csproj",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\lab2.1.csproj",
-              "RelativeToolTip": "lab2.1\\lab2.1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T11:42:55.229Z"
+              "DocumentIndex": 5,
+              "Title": "InputDepartmentDtO.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputDepartmentDtO.cs",
+              "RelativeDocumentMoniker": "lab2.1\\Dtos\\InputDepartmentDtO.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\InputDepartmentDtO.cs",
+              "RelativeToolTip": "lab2.1\\Dtos\\InputDepartmentDtO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:17:29.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "lab2.1\\Dtos\\DepartmentDto.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Dtos\\DepartmentDto.cs",
+              "RelativeToolTip": "lab2.1\\Dtos\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:17:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Program.cs",
+              "RelativeDocumentMoniker": "lab2.1\\Program.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Asp .Net Api\\Labs\\lab2\\lab2.1\\Program.cs",
+              "RelativeToolTip": "lab2.1\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:06:10.482Z",
+              "EditorCaption": ""
             }
           ]
         }

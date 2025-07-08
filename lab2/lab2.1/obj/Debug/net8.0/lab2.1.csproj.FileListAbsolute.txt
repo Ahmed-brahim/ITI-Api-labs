@@ -168,3 +168,4 @@ D:\College\skills\Full Stack\iti\Asp .Net Api\Labs\lab2\lab2.1\obj\Debug\net8.0\
 D:\College\skills\Full Stack\iti\Asp .Net Api\Labs\lab2\lab2.1\obj\Debug\net8.0\lab2.1.genruntimeconfig.cache
 D:\College\skills\Full Stack\iti\Asp .Net Api\Labs\lab2\lab2.1\obj\Debug\net8.0\ref\lab2.1.dll
 D:\College\skills\Full Stack\iti\Asp .Net Api\Labs\lab2\lab2.1\bin\Debug\net8.0\lab2.1.staticwebassets.runtime.json
+D:\College\skills\Full Stack\iti\Asp .Net Api\Labs\lab2\lab2.1\obj\Debug\net8.0\lab2.1.sourcelink.json
